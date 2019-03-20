@@ -1,13 +1,13 @@
 {
-  "name": "@51npm-test/test-cli",
+  "name": "@51npm-test/component-cli",
   "version": "1.0.0",
-  "description": "学习使用nodejs搭建脚手架工具",
+  "description": "用于组件开发的脚手架工具",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "test": "index.js"
+    "component": "index.js"
   },
   "repository": {
     "type": "git",
